@@ -1,0 +1,53 @@
+/* Estilo general para la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Estilo para los títulos */
+h1, h2 {
+    margin: 0;
+    font-weight: normal;
+}
+
+/* Sección principal */
+main {
+    padding: 20px;
+}
+
+/* Estilo para las secciones dentro del main */
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para los párrafos */
+p {
+    line-height: 1.6;
+}
+
+/* Estilo para el pie de página */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
