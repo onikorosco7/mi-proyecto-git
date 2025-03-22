@@ -1,3 +1,3 @@
-#Mi primer proyecto en GIT
+# Mi primer proyecto en GIT
 
 Autor: Onik Orosco
